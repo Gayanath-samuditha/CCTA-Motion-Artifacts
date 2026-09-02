@@ -1,0 +1,12 @@
+torch
+torchvision
+SimpleITK
+nibabel
+numpy
+scipy
+pandas
+scikit-learn
+scikit-image
+matplotlib
+tqdm
+TotalSegmentator
