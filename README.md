@@ -27,7 +27,7 @@ Enhancement in CCTA" (Computerized Medical Imaging and Graphics, not published y
 ## Dataset
 
 Requires the publicly available ImageCAS dataset (Zeng et al., 2023),
-not included here due to size and licensing.
+not included here due to size.
 
 ## Requirements
 
